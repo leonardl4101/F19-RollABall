@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BF9B6188-FF01-0AB6-2C06-D6F2E8F67F44}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerControl.cs" Line="26" Column="6" />
+      <File FileName="Assets/Script/CameraController.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="F19-RollABall" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="CameraController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b23d715d-0b3a-45cb-8676-e259b7c6a0f1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
